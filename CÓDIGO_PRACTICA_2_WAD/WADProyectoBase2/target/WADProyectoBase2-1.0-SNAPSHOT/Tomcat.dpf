@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/WADProyectoBase2">
+  <ResourceLink global="jdbc/3cm4" name="jdbc/3cm4" type="javax.sql.DataSource"/>
+</Context>
